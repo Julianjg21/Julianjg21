@@ -39,13 +39,31 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="50" />
       <br>Javascript
       </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65" height="50" />
+      <br>NodeJs
+      </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="50" />
       </a>
       <br>Python
     </td>
-       <td align="center"  width="96">
+     <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+      <br>React
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+      <br>Mysql
+    </td>
+  </tr>
+  <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
+      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
@@ -56,20 +74,6 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
        <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express
-    </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
-      <br>React
-    </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
-      <br>Mysql
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="selenium" />
