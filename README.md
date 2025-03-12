@@ -126,7 +126,7 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
 
 <p align="center">
 <a href="https://github.com/Julianjg21">
-  <img  src="https://streak-stats.demolab.com/?user=Julianjg21&theme=default&disable_animations=true&theme=algolia&cache_seconds=1800"/>
+  <img  src="https://streak-stats.demolab.com/?user=Julianjg21&theme=default&disable_animations=true&theme=algolia&cache_seconds=100"/>
 </a>
 </p>
 
@@ -134,7 +134,7 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
 
 <p align="center">
 <a href="https://github.com/Julianjg21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julianjg21&disable_animations=true&show_icons=true&theme=algolia&cache_seconds=1800"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianjg21&hide_progress=false&layout=compact&disable_animations=true&theme=algolia&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julianjg21&disable_animations=true&show_icons=true&theme=algolia&cache_seconds=100"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianjg21&hide_progress=false&layout=compact&disable_animations=true&theme=algolia&cache_seconds=100" />
 </a>
 </p>
