@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRtb3JsZGF3aTlwdnB6ZDQzMXQ4ZjA1ZWJ3cno1dXBmbGVybG10ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" align="right"  width="350px" alt="gif"/>
 </p>
+<br>
 
 **_Sobre mí_**
 
