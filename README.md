@@ -46,20 +46,36 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
       </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="50" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=spring" alt="SpringBoot" width="65" height="50" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="50" />
       </a>
       <br>Python
-    </td>
-     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
-      <br>React
     </td>
     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
       <br>Mysql
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="POSTGRESQL" />
+      <br>PostgreSQL
+    </td>
   </tr>
   <tr>
+   <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+      <br>React
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
       <br>Express
@@ -80,6 +96,10 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
         <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="selenium" />
       <br>Selenium
     </td>
+     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="prisma" />
+      <br>Prisma ORM
+    </td>
   </tr>
 </table>
 
@@ -90,6 +110,10 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="65" height="50" />
       <br>Vscode
+      </td>
+   <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000" alt="intellij" width="65" height="50" />
+      <br>IntelliJ IDEA
       </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
