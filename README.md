@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy <a href="https://julianjg21.github.io/portafolio">Julian</a> 👋</h1>
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRtb3JsZGF3aTlwdnB6ZDQzMXQ4ZjA1ZWJ3cno1dXBmbGVybG10ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" align="right"  width="350px" alt="gif"/>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY5ZDZlaWo1YXVmaHcwYnYwdmM5dHFwbGR0M3RxemhlZ2pkN3hjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" align="right"  width="350px" alt="gif"/>
 </p>
 <br>
 
@@ -9,7 +9,7 @@
 Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
 
 - 🔭 Estoy actualmente trabajando en mis proyectos personales
-- ☄️ Estoy aprendiendo Java.
+- ☄️ Estoy aprendiendo TypeScript.
 - 💬 Preguntame por algo relacionado con Node.js/Javascript/Mysql/React.js/Express
 - 👨‍💻 Conoce mas sobre mi y mis proyectos aqui:🎓[Portafolio](https://julianjg21.github.io/portafolio)
 - ⚡ Fun fact: Mi VS Code tiene más extensiones que mi navegador.
@@ -32,7 +32,7 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
 
 ## My favorite tools and technologies ⚙️
 
-> Tecnologias usadas
+> Tecnologias utilizadas
 
 <table align="center">
   <tr>
@@ -83,7 +83,7 @@ Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
   </tr>
 </table>
 
-> Herramientas usadas
+> Herramientas utilizadas
 
 <table align="center">
   <tr >
