@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy <a href="https://julianjg21.github.io/portafolio">Julian</a> 👋</h1>
 
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY5ZDZlaWo1YXVmaHcwYnYwdmM5dHFwbGR0M3RxemhlZ2pkN3hjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYSSBtDgbbRzq/giphy.gif" align="right"  width="350px" alt="gif"/>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzYzZ3RqNTlqb2didGJqMGtvNnVkNmg1Yjl3dXNjN3RjZ3IwZGozNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U5OgQSxhzjR1t4McGc/giphy.gif" align="right"  width="350px" alt="gif"/>
 </p>
 <br>
 
