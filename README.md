@@ -1,34 +1,35 @@
-<h1 align="center">Hola, soy <a href="https://julianjg21.github.io/portafolio">Julian</a> 👋</h1>
+# Julian Jiménez  | Software Developer 🔥
 
-<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzYzZ3RqNTlqb2didGJqMGtvNnVkNmg1Yjl3dXNjN3RjZ3IwZGozNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U5OgQSxhzjR1t4McGc/giphy.gif" align="right"  width="350px" alt="gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MzYzZ3RqNTlqb2didGJqMGtvNnVkNmg1Yjl3dXNjN3RjZ3IwZGozNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U5OgQSxhzjR1t4McGc/giphy.gif" align="right" width="350px" alt="coding-gif"/>
 </p>
 <br>
 
-**_Sobre mí_**
+Desarrollador de Software enfocado en la creación de soluciones backend robustas y escalables. Me enfoco en transformar ideas complejas en código limpio, eficiente y funcional.
+<br>
+<br>
 
-Aquí es donde hago magia con código... y a veces también rompo cosas. 😅
+<p align="center">
+  <a href="https://www.linkedin.com/in/julian-jimenez-g" title="LinkedIn"><img width="32px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  &#8287;&#8287;&#8287;
+  <a href="mailto:julianjimenez2001@hotmail.com" title="Email"><img width="32px" src="https://github.com/user-attachments/assets/39be0b03-bf5e-47a0-8a54-14699dc7b72f"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://julianjg21.github.io/portafolio" title="Portafolio"><img width="32px" alt="Julian Portfolio" src="https://github.com/user-attachments/assets/e4366f34-ac98-4b1a-8485-825b741026c3"></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://wa.me/3103373693" title="WhatsApp"><img width="32px" src="https://github.com/user-attachments/assets/fb6000e6-8df1-4fcf-af95-b3557bdc0312"></a>
+</p>
+<br>
 
-- 🔭 Estoy actualmente trabajando en mis proyectos personales
-- ☄️ Estoy aprendiendo TypeScript.
-- 💬 Preguntame por algo relacionado con Node.js/Javascript/Mysql/React.js/Express
+- 🔭 **Actualmente:** Enfocado en el desarrollo de APIs RESTful y en la mejora continua de mis proyectos backend.
+- 🌱 **Enfoque:** Aprendiendo activamente Docker y Kubernetes para adentrarme en el mundo de DevOps y el despliegue de contenedores.
+- 💬 **Hablemos sobre:** Desarrollo backend, arquitectura de software, o buenas prácticas de programación. ¡Siempre dispuesto a colaborar!
 - 👨‍💻 Conoce mas sobre mi y mis proyectos aqui:🎓[Portafolio](https://julianjg21.github.io/portafolio)
 - ⚡ Fun fact: Mi VS Code tiene más extensiones que mi navegador.
+
+---
+<br>
 <br>
 
-  <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/julian-jimenez-g"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/65ee7bf6-83f4-4c8a-9fb0-3ad1b1649195"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/xjul1anx7" alt="Discord" title="Julian discord"><img width="32px" src="https://github.com/user-attachments/assets/cfcb7c3f-6701-4641-bbf2-229d60f05997"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://julianjg21.github.io/portafolio"><img width="32px" alt="Julian Portfolio" title="Portafolio" src="https://github.com/user-attachments/assets/e4366f34-ac98-4b1a-8485-825b741026c3"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:julianjimenez2001@hotmail.com"><img width="32px" alt="Email" title="Email" src="https://github.com/user-attachments/assets/39be0b03-bf5e-47a0-8a54-14699dc7b72f"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/3103373693"><img width="32px" alt="whatsapp" title="whatsapp" src="https://github.com/user-attachments/assets/fb6000e6-8df1-4fcf-af95-b3557bdc0312"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br>
 
 ## My favorite tools and technologies ⚙️
 
