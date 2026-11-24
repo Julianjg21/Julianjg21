@@ -38,7 +38,7 @@ Desarrollador de Software enfocado en la creación de soluciones backend robusta
 <table align="center">
   <tr>
    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="50" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="65" height="50" />
       <br>Javascript
       </td>
    <td align="center" width="96">
@@ -47,7 +47,7 @@ Desarrollador de Software enfocado en la creación de soluciones backend robusta
       </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="50" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="50" />
       </a>
       <br>Java
     </td>
@@ -59,12 +59,12 @@ Desarrollador de Software enfocado en la creación de soluciones backend robusta
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" height="50" />
+        <img src="https://skillicons.dev/icons?i=python" alt="python" width="65" height="50" />
       </a>
       <br>Python
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="mysql" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>Mysql
     </td>
     <td align="center"  width="96">
@@ -74,7 +74,7 @@ Desarrollador de Software enfocado en la creación de soluciones backend robusta
   </tr>
   <tr>
    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React
     </td>
     <td align="center"  width="96">
